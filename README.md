@@ -1,1 +1,3 @@
 # ai_ml_elevate_labs_task3
+
+In this task , we learned how to build a house price prediction model using linear regression. The process started with loading and exploring the dataset, followed by careful preprocessing—especially handling categorical variables and cleaning data for consistency. We split the data into training and test sets to fairly evaluate our model’s performance. Using Scikit-learn, we trained a linear regression model, made predictions, and evaluated the results using metrics like MAE, MSE, and R^2. We also learned the importance of interpreting model coefficients to understand how each feature influences house prices. 
